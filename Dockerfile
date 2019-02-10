@@ -1,4 +1,4 @@
-FROM dperson/samba
+FROM dperson/samba:aarch64
 MAINTAINER site-github@guidodiepen.nl
 
 VOLUME ["/etc/samba"]
